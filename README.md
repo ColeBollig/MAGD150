@@ -22,7 +22,7 @@ This project was to create a weather themed animation that incorporated function
 
 ### Project 5
 This project was to make a de-motivational themed poster that used different text fonts.
-[Link to Poster Project]()
+[Link to Poster Project](https://github.com/ColeBollig/MAGD150/tree/gh-pages/s19magd150lab08_Bollig)
 
 ### Project 6
 This project was to create a documentary themed program that used pictures and videos.
