@@ -14,7 +14,7 @@ This project was to create a ocean themed animation that incorporated user inter
 
 ### Project 3
 This project was to create a television themed progam that had working buttons.
-[Link to TV Project]()
+[Link to TV Project](https://github.com/ColeBollig/MAGD150/tree/gh-pages/s19magd150lab05_Bollig)
 
 ### Project 4
 This project was to create a weather themed animation that incorporated functions and classes.
