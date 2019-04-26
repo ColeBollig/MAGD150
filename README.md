@@ -6,7 +6,7 @@ This is a repository for my 6 favorite projects from **MAGD 150** at **UW Whitew
 
 ### Project 1
 This project was to create a space themed picture within processing.
-[Link to Space Project]()
+[Link to Space Project](https://github.com/ColeBollig/MAGD150/tree/gh-pages/s19magdlab01_Bollig)
 
 ### Project 2
 This project was to create a ocean themed animation that incorporated user interaction via mouse and keyboard.
