@@ -26,4 +26,4 @@ This project was to make a de-motivational themed poster that used different tex
 
 ### Project 6
 This project was to create a documentary themed program that used pictures and videos.
-[Link to Documentary Project]()
+[Link to Documentary Project](https://github.com/ColeBollig/MAGD150/tree/gh-pages/s19magd150lab09_Bollig)
