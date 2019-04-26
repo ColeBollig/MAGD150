@@ -10,7 +10,7 @@ This project was to create a space themed picture within processing.
 
 ### Project 2
 This project was to create a ocean themed animation that incorporated user interaction via mouse and keyboard.
-[Link to Ocean Project]()
+[Link to Ocean Project](https://github.com/ColeBollig/MAGD150/tree/gh-pages/s19magd150lab04_Bollig)
 
 ### Project 3
 This project was to create a television themed progam that had working buttons.
