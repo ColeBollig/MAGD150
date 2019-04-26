@@ -18,7 +18,7 @@ This project was to create a television themed progam that had working buttons.
 
 ### Project 4
 This project was to create a weather themed animation that incorporated functions and classes.
-[Link to Weather Project]()
+[Link to Weather Project](https://github.com/ColeBollig/MAGD150/tree/gh-pages/s19magd150lab06_Bollig)
 
 ### Project 5
 This project was to make a de-motivational themed poster that used different text fonts.
